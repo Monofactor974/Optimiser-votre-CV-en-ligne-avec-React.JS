@@ -23,7 +23,7 @@ export default function Contact() {
           </div>
           <div className="contact-map">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d10493.851136634748!2d2.2908198499999997!3d48.8875169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1723455823775!5m2!1sfr!2sfr"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.6269657541047!2d4.796403976619983!3d45.7786657124015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4eb65edac5b3f%3A0xe01c47049cb2e2b9!2s40%20Rue%20Laure%20Diebold%2C%2069009%20Lyon!5e0!3m2!1sfr!2sfr!4v1725896001778!5m2!1sfr!2sfr"
               width="100%"
               height="450"
               allowFullScreen=""

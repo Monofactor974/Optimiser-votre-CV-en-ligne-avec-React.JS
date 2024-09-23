@@ -23,7 +23,6 @@ export default function Navliens() {
       <div>
         <div className="footer">
           <h1 className="profil">
-            que
             <p className="John">
               John Doe <br />
               <br />
